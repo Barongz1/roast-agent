@@ -1,6 +1,6 @@
 """Roast Your Own Agent — entry for make.fun.
 
-Writes one line to /output/entry.txt.
+Writes one line to /output/entry.txt. The roast is one short line, tight and specific.
 The line is a single line roasting the AI agent our own team built, and nothing else.
 """
 import os
